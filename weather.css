@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    background-color: Thistle;
+    font-size: 40px;
+}
+
+#weatherResults {
+    background-color: Khaki;
+    font-family: 'Lato', sans-serif;
+    padding: 20px;
+    display: inline-block;
+    margin: 20px;
+    border-radius: 20px
+}

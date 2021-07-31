@@ -1,0 +1,32 @@
+body {
+font-family: 'Lato', sans-serif;
+    text-align: center;
+    background-color: Thistle;
+}
+
+h2 {
+    font-size: 40px;
+    padding-left: 20px;
+}
+
+.weatherText {
+    font-size: 24px;
+}
+
+#weatherForm {
+    padding: 20px;
+}
+
+#weatherSubmit {
+    color: black;
+    background-color: Khaki;
+    padding: 5px 20px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+#weatherSubmit:hover {
+    cursor: pointer;
+}
+
+
